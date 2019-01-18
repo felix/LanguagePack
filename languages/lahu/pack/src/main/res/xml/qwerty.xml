@@ -17,36 +17,37 @@
     </Row>
 
     <Row>
-        <Key android:horizontalGap="5%p" android:codes="97" android:keyLabel="a" ask:shiftedKeyLabel="A" android:keyEdgeFlags="left"/>
-        <Key android:codes="115" android:keyLabel="s" ask:shiftedKeyLabel="S"/>
-        <Key android:codes="100" android:keyLabel="d" ask:shiftedKeyLabel="D"/>
-        <Key android:codes="102" android:keyLabel="f" ask:shiftedKeyLabel="F"/>
-        <Key android:codes="103" android:keyLabel="g" ask:shiftedKeyLabel="G"/>
-        <Key android:codes="104" android:keyLabel="h" ask:shiftedKeyLabel="H"/>
-        <Key android:codes="106" android:keyLabel="j" ask:shiftedKeyLabel="J"/>
-        <Key android:codes="107" android:keyLabel="k" ask:shiftedKeyLabel="K"/>
-        <Key android:codes="108" android:keyLabel="l" ask:shiftedKeyLabel="L" android:keyEdgeFlags="right"/>
+        <Key android:horizontalGap="5%p" android:codes="97" android:keyLabel="a" ask:shiftedKeyLabel="A" android:popupCharacters="" android:keyEdgeFlags="left"/>
+        <Key android:codes="115" android:keyLabel="s" ask:shiftedKeyLabel="S" android:popupCharacters=""/>
+        <Key android:codes="100" android:keyLabel="d" ask:shiftedKeyLabel="D" android:popupCharacters=""/>
+        <Key android:codes="102" android:keyLabel="f" ask:shiftedKeyLabel="F" android:popupCharacters=""/>
+        <Key android:codes="103" android:keyLabel="g" ask:shiftedKeyLabel="G" android:popupCharacters=""/>
+        <Key android:codes="104" android:keyLabel="h" ask:shiftedKeyLabel="H" android:popupCharacters=""/>
+        <Key android:codes="106" android:keyLabel="j" ask:shiftedKeyLabel="J" android:popupCharacters=""/>
+        <Key android:codes="107" android:keyLabel="k" ask:shiftedKeyLabel="K" android:popupCharacters=""/>
+        <Key android:codes="108" android:keyLabel="l" ask:shiftedKeyLabel="L" android:popupCharacters="" android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>
-        <Key android:codes="122" android:keyLabel="z" ask:shiftedKeyLabel="Z"/>
-        <Key android:codes="120" android:keyLabel="x" ask:shiftedKeyLabel="X"/>
-        <Key android:codes="99" android:keyLabel="c" ask:shiftedKeyLabel="C"/>
-        <Key android:codes="118" android:keyLabel="v" ask:shiftedKeyLabel="V"/>
-        <Key android:codes="98" android:keyLabel="b" ask:shiftedKeyLabel="B"/>
-        <Key android:codes="110" android:keyLabel="n" ask:shiftedKeyLabel="N"/>
-        <Key android:codes="109" android:keyLabel="m" ask:shiftedKeyLabel="M"/>
+        <Key android:horizontalGap="15%p" android:codes="122" android:keyLabel="z" ask:shiftedKeyLabel="Z" android:popupCharacters="" android:keyEdgeFlags="left"/>
+	<Key android:codes="120" android:keyLabel="x" ask:shiftedKeyLabel="X" android:popupCharacters=""/>
+        <Key android:codes="99" android:keyLabel="c" ask:shiftedKeyLabel="C" android:popupCharacters=""/>
+        <Key android:codes="118" android:keyLabel="v" ask:shiftedKeyLabel="V" android:popupCharacters=""/>
+        <Key android:codes="98" android:keyLabel="b" ask:shiftedKeyLabel="B" android:popupCharacters=""/>
+        <Key android:codes="110" android:keyLabel="n" ask:shiftedKeyLabel="N" android:popupCharacters=""/>
+        <Key android:codes="109" android:keyLabel="m" ask:shiftedKeyLabel="M" android:popupCharacters="" android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>
         <Key android:codes="-1" android:keyWidth="15%p" android:isModifier="true" android:isSticky="true" android:keyEdgeFlags="left"/>
-        <Key android:keyLabel="ˍ"/>
-        <Key android:keyLabel="ꞈ"/>
-        <Key android:keyLabel="ˬ"/>
-        <Key android:keyLabel="-"/>
-        <Key android:keyLabel="ˇ"/>
-        <Key android:keyLabel="ˆ"/>
-        <Key android:keyLabel="ˉ"/>
+        <Key android:codes="\u02cd" android:keyLabel="ˍ"/>
+        <Key android:codes="\ua788" android:keyLabel="ꞈ"/>
+        <Key android:codes="\u02ec" android:keyLabel="ˬ"/>
+        <Key android:codes="-" android:keyLabel="-"/>
+	<!--<Key android:horizontalGap="10%p" android:codes="\u02c9" android:keyLabel="ˉ"/>-->
+        <Key android:codes="\u02c9" android:keyLabel="ˉ"/>
+        <Key android:codes="\u02c6" android:keyLabel="ˆ"/>
+        <Key android:codes="\u02c7" android:keyLabel="ˇ"/>
         <Key android:keyWidth="15%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
     </Row>
 </Keyboard>
