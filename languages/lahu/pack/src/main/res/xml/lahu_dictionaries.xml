@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+    <Dictionary
+        autoTextResourceId="@xml/lahu_autotext"
+        description="@string/lahu_dictionary_description"
+        dictionaryResourceId="@array/lahu_words_dict_array"
+        id="55bde9d7-b911-42a0-8718-c40a561c1496"
+        initialSuggestions="@array/lahu_initial_suggestions"
+        locale="lhu"
+        nameResId="@string/lahu_dictionary"
+        type="binary_resource" />
+</Dictionaries>
