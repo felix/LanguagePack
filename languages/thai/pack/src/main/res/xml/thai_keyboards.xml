@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keyboards>
+    <Keyboard nameResId="@string/thai_keyboard" iconResId="@drawable/ic_status_thai"
+              layoutResId="@xml/kedmanee" id="@string/main_thai_keyboard_id"
+              defaultDictionaryLocale="en" description="@string/thai_keyboard_description"
+              index="1" defaultEnabled="true"
+              physicalKeyboardMappingResId="@xml/thai_physical" />
+
+</Keyboards>
