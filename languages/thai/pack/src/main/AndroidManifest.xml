@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.anysoftkeyboard.languagepack.thai.pack">
+          package="com.anysoftkeyboard.languagepack.kedmanee.pack">
 
     <application>
         <receiver
-            android:name="com.anysoftkeyboard.languagepack.thai.PackBroadcastReceiver"
+            android:name="com.anysoftkeyboard.languagepack.kedmanee.PackBroadcastReceiver"
             android:exported="true">
             <intent-filter>
                 <action android:name="com.menny.android.anysoftkeyboard.KEYBOARD" />

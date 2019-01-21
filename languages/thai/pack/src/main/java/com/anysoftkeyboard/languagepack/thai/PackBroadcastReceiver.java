@@ -1,4 +1,4 @@
-package com.anysoftkeyboard.languagepack.thai;
+package com.anysoftkeyboard.languagepack.kedmanee;
 
 import com.anysoftkeyboard.languagepack.PackBroadcastReceiverBase;
 
