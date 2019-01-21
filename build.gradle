@@ -84,7 +84,8 @@ subprojects {
         if (project.plugins.hasPlugin('com.android.application')) {
             project.android {
                 defaultConfig {
-                    applicationId "com.anysoftkeyboard.languagepack.${languageName}"
+                    //applicationId "com.anysoftkeyboard.languagepack.${languageName}"
+                    applicationId "com.anysoftkeyboard.languagepack.kedmanee"
                 }
 
                 applicationVariants.all { variant ->
