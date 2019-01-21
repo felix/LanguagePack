@@ -116,17 +116,10 @@ subprojects {
             project.android {
                 signingConfigs {
                     release {
-                        def keystoreFile = file("/tmp/language_pack.keystore")
-                        if (keystoreFile.exists()) {
-                            storeFile keystoreFile
-                            storePassword System.getenv("PACKS_ALL_KEY_STORE_FILE_PASSWORD")
-                            keyAlias getExtValue(project, "override_release_key_alias", System.getenv("PACKS_ALL_KEY_STORE_FILE_DEFAULT_ALIAS"))
-                            keyPassword System.getenv("PACKS_ALL_KEY_STORE_FILE_DEFAULT_ALIAS_PASSWORD")
-                            println "Using '${storeFile.absolutePath}' to release APK ${path} (with alias '${keyAlias}')."
-                        } else {
-                            println "Could not find '${keystoreFile.absolutePath}' file. Can not sign release APK with release keystore! Using debug."
-                            initWith signingConfigs.debug
-                        }
+                        storeFile file(RELEASE_STORE_FILE)
+                        storePassword RELEASE_STORE_PASSWORD
+                        keyAlias RELEASE_KEY_ALIAS
+                        keyPassword RELEASE_KEY_PASSWORD
                     }
                 }
 
