@@ -5,14 +5,6 @@
 
     <string name="thai_dictionary">Thai</string>
     <string name="thai_keyboard">Thai</string>
-    <string name="thai_keyboard_symbols">Thai</string>
-    <string name="dvorak_keyboard">Dvorak</string>
-    <string name="compact_keyboard">EN Compact</string>
-    <string name="compact_dvorak_keyboard">Dv Compact</string>
-    <string name="compact_keyboard_16keys">EN Keypad</string>
-    <string name="terminal_keyboard">Terminal</string>
-    <string name="colemak_keyboard">Colemak</string>
-    <string name="workman_keyboard">Workman</string>
 
     <string name="main_thai_keyboard_id">c7b06863-73ac-499a-b713-2f841b61d95a</string>
 
