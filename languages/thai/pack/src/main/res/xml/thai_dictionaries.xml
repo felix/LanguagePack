@@ -4,7 +4,7 @@
         autoTextResourceId="@xml/thai_autotext"
         description="@string/thai_dictionary_description"
         dictionaryResourceId="@array/thai_words_dict_array"
-        id="8a678ccc-b62a-41e3-9d1b-0023bf710b2b"
+        id="4b70d9ee-d2e9-41fd-800c-51c52cd96b67"
         initialSuggestions="@array/thai_initial_suggestions"
         locale="en"
         nameResId="@string/thai_dictionary"
