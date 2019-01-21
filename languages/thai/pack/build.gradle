@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 
 ext.status_icon_text = "th"
 
-ext.dictionaryInputPossibleCharacters = null//"".toCharArray()
+ext.dictionaryInputPossibleCharacters = "กขฃคฅฆงจฉชซฌญฎฏฐฑฒณดตถทธนบปผฝพฟภมยรฤลฦวศษสหฬอฮฯะ ัาำ ิ ี ึ ื ุ ู ฺ฿เแโใไๅๆ ็ ่ ้ ๊ ๋ ์ ํ ๎๏๐๑๒๓๔๕๖๗๘๙๚๛".toCharArray()
 ext.dictionaryInputAdditionalInnerCharacters = null//"".toCharArray()
 
 dependencies {
