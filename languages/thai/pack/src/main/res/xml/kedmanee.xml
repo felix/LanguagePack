@@ -4,62 +4,62 @@
     android:keyWidth="8.3%p"
     android:keyHeight="@integer/key_normal_height">
     <Row>
-        <Key android:codes="\u0e32" android:keyLabel="ๅ" ask:mShiftedCodes="+" ask:shiftedKeyLabel="+" android:popupCharacters="1" android:keyEdgeFlags="left"/>
-        <Key android:codes="/" android:keyLabel="/" ask:mShiftedCodes="\u0e51" ask:shiftedKeyLabel="๑" android:popupCharacters="2"/>
-        <Key android:codes="-" android:keyLabel="-" ask:mShiftedCodes="\u0e52" ask:shiftedKeyLabel="๒" android:popupCharacters="3"/>
-        <Key android:codes="\u0e20" android:keyLabel="ภ" ask:mShiftedCodes="\u0e53" ask:shiftedKeyLabel="๓" android:popupCharacters="4"/>
-        <Key android:codes="\u0e16" android:keyLabel="ถ" ask:mShiftedCodes="\u0e54" ask:shiftedKeyLabel="๔" android:popupCharacters="5"/>
-        <Key android:codes="\u0e38" android:keyLabel="\u0e38" ask:mShiftedCodes="\u0e55" ask:shiftedKeyLabel="\u0e55" android:popupCharacters="6"/>
-        <Key android:codes="\u0e36" android:keyLabel="\u0e36" ask:mShiftedCodes="\u0e3f" ask:shiftedKeyLabel="฿" android:popupCharacters="7"/>
-        <Key android:codes="\u0e04" android:keyLabel="ค" ask:mShiftedCodes="\u0e55" ask:shiftedKeyLabel="๕" android:popupCharacters="8"/>
-        <Key android:codes="\u0e15" android:keyLabel="ต" ask:mShiftedCodes="\u0e56" ask:shiftedKeyLabel="๖" android:popupCharacters="9"/>
-        <Key android:codes="\u0e08" android:keyLabel="จ" ask:mShiftedCodes="\u0e57" ask:shiftedKeyLabel="๗" android:popupCharacters="0"/>
-        <Key android:codes="\u0e02" android:keyLabel="ข" ask:mShiftedCodes="\u0e58" ask:shiftedKeyLabel="๘"/>
-        <Key android:codes="\u0e0a" android:keyLabel="ช" ask:mShiftedCodes="\u0e59" ask:shiftedKeyLabel="๙" android:keyEdgeFlags="right"/>
+        <Key android:codes="\u0e32" android:keyLabel="ๅ" ask:shiftedKeyLabel="+" android:popupCharacters="1" android:keyEdgeFlags="left"/>
+        <Key android:codes="/" android:keyLabel="/" ask:shiftedKeyLabel="๑" android:popupCharacters="2"/>
+        <Key android:codes="-" android:keyLabel="-" ask:shiftedKeyLabel="๒" android:popupCharacters="3"/>
+        <Key android:codes="\u0e20" android:keyLabel="ภ" ask:shiftedKeyLabel="๓" android:popupCharacters="4"/>
+        <Key android:codes="\u0e16" android:keyLabel="ถ" ask:shiftedKeyLabel="๔" android:popupCharacters="5"/>
+        <Key android:codes="\u0e38" android:keyLabel="\u0e38" ask:shiftedKeyLabel="\u0e55" android:popupCharacters="6"/>
+        <Key android:codes="\u0e36" android:keyLabel="\u0e36" ask:shiftedKeyLabel="฿" android:popupCharacters="7"/>
+        <Key android:codes="\u0e04" android:keyLabel="ค" ask:shiftedKeyLabel="๕" android:popupCharacters="8"/>
+        <Key android:codes="\u0e15" android:keyLabel="ต" ask:shiftedKeyLabel="๖" android:popupCharacters="9"/>
+        <Key android:codes="\u0e08" android:keyLabel="จ" ask:shiftedKeyLabel="๗" android:popupCharacters="0"/>
+        <Key android:codes="\u0e02" android:keyLabel="ข" ask:shiftedKeyLabel="๘"/>
+        <Key android:codes="\u0e0a" android:keyLabel="ช" ask:shiftedKeyLabel="๙" android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>
-        <Key android:codes="\u0e46" android:keyLabel="ๆ" ask:mShiftedCodes="\u0e50" ask:shiftedKeyLabel="๐" android:keyEdgeFlags="left" android:horizontalGap="5%p" />
-        <Key android:codes="\u0e44" android:keyLabel="ไ" ask:mShiftedCodes="\u34" ask:shiftedKeyLabel="\u34"/>
-        <Key android:codes="\uoe33" android:keyLabel="ำ" ask:mShiftedCodes="\u0e0f" ask:shiftedKeyLabel="ฎ"/>
-        <Key android:codes="\u0e1e" android:keyLabel="พ" ask:mShiftedCodes="\uoe11" ask:shiftedKeyLabel="ฑ"/>
-        <Key android:codes="\u0e30" android:keyLabel="ะ" ask:mShiftedCodes="\u0e2e" ask:shiftedKeyLabel="ธ"/>
-        <Key android:codes="\u0e31" android:keyLabel="\u0e31" ask:mShiftedCodes="\u0e4d" ask:shiftedKeyLabel="\u0e4d"/>
-        <Key android:codes="\u0e35" android:keyLabel="\u0e35" ask:mShiftedCodes="\u0e4a" ask:shiftedKeyLabel="\u0e4a"/>
-        <Key android:codes="\u0e23" android:keyLabel="ร" ask:mShiftedCodes="\u0e13" ask:shiftedKeyLabel="ณ"/>
-        <Key android:codes="\u0e19" android:keyLabel="น" ask:mShiftedCodes="\u0e2f" ask:shiftedKeyLabel="ฯ"/>
-        <Key android:codes="\u0e22" android:keyLabel="ย" ask:mShiftedCodes="\u0e0d" ask:shiftedKeyLabel="ญ"/>
-        <Key android:codes="\u0e1a" android:keyLabel="บ" ask:mShiftedCodes="\u0e10" ask:shiftedKeyLabel="ฐ"/>
-        <Key android:codes="\u0e25" android:keyLabel="ล" ask:mShiftedCodes="\," ask:shiftedKeyLabel=","/>
-        <Key android:codes="\u0e03" android:keyLabel="ฃ" ask:mShiftedCodes="\u0e05" ask:shiftedKeyLabel="ฅ" android:keyEdgeFlags="right"/>
+        <Key android:codes="\u0e46" android:keyLabel="ๆ" ask:shiftedKeyLabel="๐" android:keyEdgeFlags="left" android:horizontalGap="5%p" />
+        <Key android:codes="\u0e44" android:keyLabel="ไ" ask:shiftedKeyLabel="\u34"/>
+        <Key android:codes="\u0e33" android:keyLabel="ำ" ask:shiftedKeyLabel="ฎ"/>
+        <Key android:codes="\u0e1e" android:keyLabel="พ" ask:shiftedKeyLabel="ฑ"/>
+        <Key android:codes="\u0e30" android:keyLabel="ะ" ask:shiftedKeyLabel="ธ"/>
+        <Key android:codes="\u0e31" android:keyLabel="\u0e31" ask:shiftedKeyLabel="\u0e4d"/>
+        <Key android:codes="\u0e35" android:keyLabel="\u0e35" ask:shiftedKeyLabel="\u0e4a"/>
+        <Key android:codes="\u0e23" android:keyLabel="ร" ask:shiftedKeyLabel="ณ"/>
+        <Key android:codes="\u0e19" android:keyLabel="น" ask:shiftedKeyLabel="ฯ"/>
+        <Key android:codes="\u0e22" android:keyLabel="ย" ask:shiftedKeyLabel="ญ"/>
+        <Key android:codes="\u0e1a" android:keyLabel="บ" ask:shiftedKeyLabel="ฐ"/>
+        <Key android:codes="\u0e25" android:keyLabel="ล" ask:shiftedKeyLabel=","/>
+        <Key android:codes="\u0e03" android:keyLabel="ฃ" ask:shiftedKeyLabel="ฅ" android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>
-        <Key android:codes="\u0e1f" android:keyLabel="ฟ" ask:mShiftedCodes="\u0e24" ask:shiftedKeyLabel="ฤ" android:keyEdgeFlags="left" android:horizontalGap="5%p" />
-        <Key android:codes="\u0e2b" android:keyLabel="ห" ask:mShiftedCodes="\u0e06" ask:shiftedKeyLabel="ฆ"/>
-        <Key android:codes="\u0e01" android:keyLabel="ก" ask:mShiftedCodes="\u0e0f" ask:shiftedKeyLabel="ฏ"/>
-        <Key android:codes="\u0e14" android:keyLabel="ด" ask:mShiftedCodes="\u0e42" ask:shiftedKeyLabel="โ"/>
-        <Key android:codes="\u0e40" android:keyLabel="เ" ask:mShiftedCodes="\u0e0c" ask:shiftedKeyLabel="ฌ"/>
-        <Key android:codes="\u0e49" android:keyLabel="\u0e49" ask:mShiftedCodes="\u0e47" ask:shiftedKeyLabel="\u0e47"/>
-        <Key android:codes="\u0e48" android:keyLabel="\u0e48" ask:mShiftedCodes="\u0e4b" ask:shiftedKeyLabel="\u0e4b"/>
-        <Key android:codes="\u0e32" android:keyLabel="า" ask:mShiftedCodes="\u0e29" ask:shiftedKeyLabel="ษ"/>
-        <Key android:codes="\u0e2a" android:keyLabel="ส" ask:mShiftedCodes="\u0e28" ask:shiftedKeyLabel="ศ"/>
-        <Key android:codes="\u0e27" android:keyLabel="ว" ask:mShiftedCodes="\u0e0b" ask:shiftedKeyLabel="ซ"/>
-        <Key android:codes="\u0e07" android:keyLabel="ง" ask:mShiftedCodes="\." ask:shiftedKeyLabel="\." android:keyEdgeFlags="right"/>
+        <Key android:codes="\u0e1f" android:keyLabel="ฟ" ask:shiftedKeyLabel="ฤ" android:keyEdgeFlags="left" android:horizontalGap="5%p" />
+        <Key android:codes="\u0e2b" android:keyLabel="ห" ask:shiftedKeyLabel="ฆ"/>
+        <Key android:codes="\u0e01" android:keyLabel="ก" ask:shiftedKeyLabel="ฏ"/>
+        <Key android:codes="\u0e14" android:keyLabel="ด" ask:shiftedKeyLabel="โ"/>
+        <Key android:codes="\u0e40" android:keyLabel="เ" ask:shiftedKeyLabel="ฌ"/>
+        <Key android:codes="\u0e49" android:keyLabel="\u0e49" ask:shiftedKeyLabel="\u0e47"/>
+        <Key android:codes="\u0e48" android:keyLabel="\u0e48" ask:shiftedKeyLabel="\u0e4b"/>
+        <Key android:codes="\u0e32" android:keyLabel="า" ask:shiftedKeyLabel="ษ"/>
+        <Key android:codes="\u0e2a" android:keyLabel="ส" ask:shiftedKeyLabel="ศ"/>
+        <Key android:codes="\u0e27" android:keyLabel="ว" ask:shiftedKeyLabel="ซ"/>
+        <Key android:codes="\u0e07" android:keyLabel="ง" ask:shiftedKeyLabel="\." android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>
         <Key android:codes="-1" android:keyWidth="15%p" android:isModifier="true" android:isSticky="true" android:keyEdgeFlags="left"/>
-        <Key android:codes="\u0e1c" android:keyLabel="ผ" ask:mShiftedCodes="\(" ask:shiftedKeyLabel="\("/>
-        <Key android:codes="\u0e1b" android:keyLabel="ป" ask:mShiftedCodes="\)" ask:shiftedKeyLabel="\)"/>
-        <Key android:codes="\u0e41" android:keyLabel="แ" ask:mShiftedCodes="\u0e09" ask:shiftedKeyLabel="ฉ"/>
-        <Key android:codes="\u0e2d" android:keyLabel="อ" ask:mShiftedCodes="\u0e2a" ask:shiftedKeyLabel="ฮ"/>
-        <Key android:codes="\u0e34" android:keyLabel="\u0e34" ask:mShiftedCodes="\u0e3a" ask:shiftedKeyLabel="\u0e3a"/>
-        <Key android:codes="\u0e37" android:keyLabel="\u0e37" ask:mShiftedCodes="\u0e4c" ask:shiftedKeyLabel="\u0e4c"/>
-        <Key android:codes="\u0e17" android:keyLabel="ท" ask:mShiftedCodes="\?" ask:shiftedKeyLabel="\?"/>
-        <Key android:codes="\0e21" android:keyLabel="ม" ask:mShiftedCodes="\u0e12" ask:shiftedKeyLabel="ฒ"/>
-        <Key android:codes="\u0e43" android:keyLabel="ใ" ask:mShiftedCodes="\u0e2c" ask:shiftedKeyLabel="ฬ"/>
-        <Key android:codes="\u0e1d" android:keyLabel="ฝ" ask:mShiftedCodes="\u0e26" ask:shiftedKeyLabel="ฦ"/>
+        <Key android:codes="\u0e1c" android:keyLabel="ผ" ask:shiftedKeyLabel="\("/>
+        <Key android:codes="\u0e1b" android:keyLabel="ป" ask:shiftedKeyLabel="\)"/>
+        <Key android:codes="\u0e41" android:keyLabel="แ" ask:shiftedKeyLabel="ฉ"/>
+        <Key android:codes="\u0e2d" android:keyLabel="อ" ask:shiftedKeyLabel="ฮ"/>
+        <Key android:codes="\u0e34" android:keyLabel="\u0e34" ask:shiftedKeyLabel="\u0e3a"/>
+        <Key android:codes="\u0e37" android:keyLabel="\u0e37" ask:shiftedKeyLabel="\u0e4c"/>
+        <Key android:codes="\u0e17" android:keyLabel="ท" ask:shiftedKeyLabel="\?"/>
+        <Key android:codes="\0e21" android:keyLabel="ม" ask:shiftedKeyLabel="ฒ"/>
+        <Key android:codes="\u0e43" android:keyLabel="ใ" ask:shiftedKeyLabel="ฬ"/>
+        <Key android:codes="\u0e1d" android:keyLabel="ฝ" ask:shiftedKeyLabel="ฦ"/>
         <Key android:keyWidth="15%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
     </Row>
 </Keyboard>
