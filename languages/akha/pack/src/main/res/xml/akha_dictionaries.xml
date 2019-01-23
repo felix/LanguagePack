@@ -4,7 +4,7 @@
         autoTextResourceId="@xml/akha_autotext"
         description="@string/akha_dictionary_description"
         dictionaryResourceId="@array/akha_words_dict_array"
-        id="55bde9d7-b911-42a0-8718-c40a561c1496"
+        id="ad1ac6eb-b964-4172-8b99-b5bc7e26990c"
         initialSuggestions="@array/akha_initial_suggestions"
         locale="ahk"
         nameResId="@string/akha_dictionary"

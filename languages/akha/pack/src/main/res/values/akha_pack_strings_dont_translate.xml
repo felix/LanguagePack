@@ -6,7 +6,7 @@
     <string name="akha_dictionary">Akha</string>
     <string name="akha_keyboard">Akha</string>
 
-    <string name="main_akha_keyboard_id">302fb3bf-21ea-4b55-addf-910e38327af7</string>
+    <string name="main_akha_keyboard_id">0cc74f03-004b-4d0f-a106-ec54846bc44c</string>
 
     <string-array name="akha_initial_suggestions">
         <item>!</item>
