@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keyboards>
+    <Keyboard nameResId="@string/akha_keyboard" iconResId="@drawable/ic_status_akha"
+              layoutResId="@xml/qwerty" id="@string/main_akha_keyboard_id"
+              defaultDictionaryLocale="ahk" description="@string/akha_keyboard_description"
+              index="1" defaultEnabled="true"
+              physicalKeyboardMappingResId="@xml/akha_physical" />
+
+</Keyboards>
